@@ -1,0 +1,589 @@
+v1 Aug'25
+Search for your mod for faster results
+{ 
+
+    "name": "Alcocraft+", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:consumables", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds beer crafting.\nAdds brewing keg and beer items." 
+
+        } 
+
+    ] 
+
+} 
+
+
+ 
+
+{ 
+
+    "name": "Alex's mobs", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:mobs", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds 89 new mobs! Drops from none rare or endangered animals can be used to craft armor or weapons with effects. More details are in the given Animal dictionary\n" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+ 
+
+{ 
+
+    "name": "Angel ring", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:equipment", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Can be used to fly. Used in the curios slot.\nConfigs: avail." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Appleskin", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"When holding food, visualise the hunger, health and saturation restored..\n" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Ars Nouveau", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:magic", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Craft spells, artifacts, rituals and more. Beginner's guide is given. To get started, craft the Worn Notebook.\nArs elemental adds more spells and equipment.\nKeybinds: Spell book, Quick cast, and more." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Backpacked", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:equipment", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds a variety of backpacks, equipped in back (curios) slot. Players can open each other's backpacks. Default is B to open backpack.\n.Configs: avail." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Botania", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:crafting", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Use magical flowers and devices to craft utilities. Craft Lexica Botania to find out about the mod.\nKeybinds: Yes." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Comforts", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:items", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds sleeping bag and hammocks that don't set spawn point when used to sleep. Dye-able. Sleeping bags sleep and hammocks turn day into night.\n" 
+
+        }, 
+
+ 
+
+{ 
+
+"type": "patchouli:text", 
+
+            "text":"Hammocks must be placed between wood logs 3 blocks apart (in between). Attach nail and rope to each log and then place the hammock. Not sure how multiplayer works.\nConfigs: avail." 
+
+ 
+
+} 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Corpse", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"If you die the corpse spawns at the death location. After retrieving the items the corpse disappears.\nKeybinds: Death history info, including teleport.\nConfigs: avail." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Curios", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:equipment", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds more equipment slots. Press the ring at the equipment side to load.\nKeybind: Yes" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Elytra Slot", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:equipment", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds a slot for elytra.\nDisclaimer: cannot find it, might be bugged." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Epic Fight", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:combat", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds combat styles compatible with various equipment. Also adds attributes to equipment, available for enchantments. Learn skills like dodge, guard and passive using skillbooks that can be found in dungeons or mobs. Stun armour reduce stun time when you attack.\n" 
+
+        },
+
+ 
+
+        { "type": "patchouli:text", 
+
+                    "text":"Keybinds: Dodge, Guard, and more.\n Dash attack using sprint and dodge using sneak. Special attack using long press.\nCompatible with other weapon mods for other attack styles." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Goblin traders", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:npc", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds goblin traders found in caves and nether.\n" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Just Enough Items", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds a dictionary of items when you press the book in the inventory." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Journeymap", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:map", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds mini and world map. Xaero's map also avail so hide one.\nKeybinds: Default J.\nConfigs: Avail.\n" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Just Enough Professions", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds worktables in JEI library. Use JEI uses keys (default U) on emerald or villager spawn egg to see a list of professions.\n" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Lootr", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Each player gets their own loot in chests. May be unique to each player. \nConfigs: Avail." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Mystical Agriculture", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:farming", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Grow resources with crops! Create tools and armour, enchant equipment, even spawn mobs.\n" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+
+{ 
+
+    "name": "Nutritional Balance", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Eat a balanced diet! See in inventory. Eating a well balanced diet will give you buffs while the opposite gives debuffs. \nKeybinds: N\nConfigs: Avail." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+{ 
+
+    "name": "Time Control", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Control day and night time length. \nUse commands to tweak: /timecontrol" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+
+
+    "name": "Towns And Towers", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:structures", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds More structures! Over 50.\n" 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+ { 
+
+    "name": "Waystones", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Teleport between or to waystones using scroll and warpstone. Add waystones as waypoints when activated (somehow only viewable in journeymap/J) \nConfigs: Avail." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+
+
+{ 
+
+    "name": "Xaero's Minimal and Worldmap", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:map", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Map features including teleport. Can display time.\nKeybind: Default is M\nConfigs: Avail." 
+
+        } 
+
+    ] 
+
+} 
+
