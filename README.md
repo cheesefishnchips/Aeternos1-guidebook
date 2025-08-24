@@ -15,6 +15,151 @@ This version adds:
 
 - Flour power for bread baking
 
-- Pizzacraft
-
 - and Thirst was Taken for thirst effects
+
+
+
+{ 
+
+    "name": "Better Mcdonald's mod", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:food", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds mcd foods." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Farmer's Delight", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:food", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds a cooking system and many foods compatble with many add ons and some extra farming tools." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Autochef's delight", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:food", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Farmer's Delight add on for stacking ingredients." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Chef's delight", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:food", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Farmer's Delight add on that provides 2 new villager professions: Cook (trades simple foods, turned by giving skillet) and Chef (trades advanced foods, turned by giving cooking pot)." 
+
+    } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Flour power", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:food", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"To make bread, craft flour from wheat and bake it. Allows for baking of cookies and bread from flour as well. Slime balls can also be made from flour paste." 
+
+        } 
+
+    ] 
+
+} 
+
+
+{ 
+
+    "name": "Thirst was Taken", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:gametweaks", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds a thirst mechanic that requires drinking of clean water." Water can be purified on a furnace (better purification) or campfire and carried on potion bottles or Farmer's Delight water botles (stackable 64 items). Biome dependent and improved with fire resistance.
+
+        } 
+
+    ] 
+
+} 
+
+
+
+    
