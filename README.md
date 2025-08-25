@@ -1,3 +1,112 @@
+# Aeternos1-guidebook v1.2
+
+Descriptions for Aeternos1 modpack minecraft
+
+I formatted these for book format with patchouli but then i had issues uploading to server side as they are careful with security and uploading things. Let me know if anyone figures out lol. 
+
+This version adds:
+- Easy Emerald Toos, which adds tools and armour made from Emerald, ruby, and more
+
+- Genshin Instruments, which adds playable music instruments from the game
+  
+- Randomore, an ore that drops a random item, apparently able to use silk touch 
+
+- Small ships which adds some charming small ships
+
+  { 
+
+    "name": "Easy Emerald Tools", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:equipment", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds tools and armour made from varios ores and special tools for efficient chopping, 3x3 mining, and digging. Also adds special potatoes and some charms.\nUpgradable using smithing table." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Genshin Instruments", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:item", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds playable instruments from GI." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Randomore", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:block", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds a ore that drops a random item across all mods. Apparently usable with silk touch." 
+
+        } 
+
+    ] 
+
+} 
+
+
+
+{ 
+
+    "name": "Small ships", 
+
+    "icon": "minecraft:writable_book", 
+
+    "category": "patchouli:tech", 
+
+    "pages": [ 
+
+        { 
+
+            "type": "patchouli:text", 
+
+            "text":"Adds maneuvreable small ships." 
+
+        } 
+
+    ] 
+
+} 
+
 # Aeternos1-guidebook v1.1
 Descriptions for Aeternos1 modpack minecraft
 
