@@ -280,6 +280,29 @@ Search for your mod for faster results
 
 
 
+{
+
+"name": "Easy Emerald Tools",
+
+"icon": "minecraft:writable_book",
+
+"category": "patchouli:equipment",
+
+"pages": [
+
+  { 
+
+      "type": "patchouli:text", 
+
+      "text":"Adds tools and armour made from varios ores and special tools for efficient chopping, 3x3 mining, and digging. Also adds special potatoes and some charms.\nUpgradable using smithing table." 
+
+  } 
+]
+
+}
+
+
+
 { 
 
     "name": "Elytra Slot", 
@@ -421,6 +444,29 @@ Search for your mod for faster results
         "type": "patchouli:text", 
 
         "text":"To make bread, craft flour from wheat and bake it. Allows for baking of cookies and bread from flour as well. Slime balls can also be made from flour paste." 
+
+    } 
+
+] 
+}
+
+
+
+{
+
+"name": "Genshin Instruments", 
+
+"icon": "minecraft:writable_book", 
+
+"category": "patchouli:item", 
+
+"pages": [ 
+
+    { 
+
+        "type": "patchouli:text", 
+
+        "text":"Adds playable instruments from GI." 
 
     } 
 
@@ -601,6 +647,51 @@ Search for your mod for faster results
 
 } 
 
+
+
+{
+
+"name": "Randomore", 
+
+"icon": "minecraft:writable_book", 
+
+"category": "patchouli:block", 
+
+"pages": [ 
+
+    { 
+
+        "type": "patchouli:text", 
+
+        "text":"Adds a ore that drops a random item across all mods. Apparently usable with silk touch." 
+
+    } 
+
+] 
+}
+
+
+
+{
+
+"name": "Small ships", 
+
+"icon": "minecraft:writable_book", 
+
+"category": "patchouli:tech", 
+
+"pages": [ 
+
+    { 
+
+        "type": "patchouli:text", 
+
+        "text":"Adds maneuvreable small ships." 
+
+    } 
+
+] 
+}
 
 
 
